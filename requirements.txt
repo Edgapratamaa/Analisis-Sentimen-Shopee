@@ -23,6 +23,3 @@ streamlit==1.35.0
 # Downloading Files
 gdown==5.1.0
 requests==2.32.2
-
-# Pickle (model)
-#pickle5==0.0.11
